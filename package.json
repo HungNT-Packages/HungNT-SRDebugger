@@ -1,8 +1,8 @@
 {
   "name": "com.hungnt.srdebugger",
   "version": "1.0.0",
-  "displayName": "HungNT: SR Debugger",
-  "unity": "2022.1",
+  "displayName": "HungNT: SRDebugger",
+  "unity": "2021.1",
   "author": {
     "name": "Nguyen Tien Hung",
     "email": "ngtienhungg.work@gmail.com"
